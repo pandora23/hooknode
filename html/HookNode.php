@@ -83,6 +83,7 @@ class HookNode
     }
 
     //test comment for testing vm workflow
+    //second comment
     private static function storeTransactions($trytes)
     {
         $req = new IriWrapper();
